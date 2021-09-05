@@ -1,0 +1,2 @@
+Message[302] E:\HW\ASSIGNMENT 04\ASSIGNMENT04.ASM 53 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[203] E:\HW\ASSIGNMENT 04\ASSIGNMENT04.ASM 61 : Found opcode in column 1. (GOTO)
